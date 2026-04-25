@@ -1,0 +1,9 @@
+[project]
+name = "video-extractor"
+version = "1.0.0"
+requires-python = ">=3.11"
+dependencies = [
+    "opencv-python-headless>=4.10",
+    "pyinstaller>=6.0",
+    "customtkinter>=5.2",
+]
